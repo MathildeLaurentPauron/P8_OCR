@@ -8,3 +8,5 @@ services:
       - ./notebooks:/home/jovyan/work
     environment:
       - JUPYTER_ENABLE_LAB=yes
+    command: >
+      start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
