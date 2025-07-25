@@ -1,1 +1,1 @@
-{"class":"org.apache.spark.ml.feature.PCAModel","timestamp":1752848494078,"sparkVersion":"3.5.0","uid":"PCA_6c87f73b77d2","paramMap":{"outputCol":"pca_features","inputCol":"scaled_features","k":41},"defaultParamMap":{"outputCol":"PCA_6c87f73b77d2__output"}}
+{"class":"org.apache.spark.ml.feature.PCAModel","timestamp":1753432267929,"sparkVersion":"3.5.0","uid":"PCA_d74799876670","paramMap":{"outputCol":"pca_features","inputCol":"scaled_features","k":91},"defaultParamMap":{"outputCol":"PCA_d74799876670__output"}}
